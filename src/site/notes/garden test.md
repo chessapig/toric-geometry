@@ -7,4 +7,19 @@
 # Site 1
 note note ntoes ntoesdgadsg dsg s
 
-[[Garden test 2|Garden test 2]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+
+# Site 2
+
+[[garden test|garden test]]
+
+</div></div>
