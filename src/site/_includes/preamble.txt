@@ -1,0 +1,53 @@
+\(
+\newcommand{\de}[0]{\mathrm{d}}
+\newcommand{\del}[0]{\partial}
+\newcommand{\delz}[0]{\partial_z}
+\newcommand{\delx}[0]{\partial_x}
+\newcommand{\delbar}[0]{\Bar{\partial}}
+\newcommand{\delbarz}[0]{\partial_{\bar{z}}}
+\newcommand{\zbar}[0]{{\Bar{z}}}
+\newcommand{\hath}[0]{{p_*h}}
+\newcommand{\hatL}[0]{{p_*L}}
+\newcommand{\de}[0]{\textrm{d}}
+\newcommand{\Jac}[0]{\textrm{Jac}}
+\newcommand{\Tot}[0]{\textrm{Tot}}
+\newcommand{\sub}[0]{\subset}
+\newcommand{\Tr}[0]{\textrm{Tr}}
+\newcommand{\Aut}[0]{\mathrm{Aut}}
+\newcommand{\End}[0]{\mathrm{End}}
+\newcommand{\irr}[0]{\mathrm{irr}}
+\newcommand{\Hom}[0]{\mathrm{Hom}}
+\newcommand{\Sym}[0]{\mathrm{Sym}}
+\newcommand{\Res}[0]{\mathrm{Res}}
+\newcommand{\rank}[0]{\mathrm{rank}}
+\newcommand{\reg}[0]{\mathrm{reg}}
+\newcommand{\floor}[1]{\left \lfloor{#1}\right \rfloor}
+\newcommand{\vectwo}[2]{\begin{pmatrix} #1 \\ #2 \end{pmatrix}}
+\newcommand{\bv}[0]{\mathbf{v}}
+\newcommand{\inv}[0]{^{-1}}
+\newcommand{\higgs}[0]{ {\textrm{higgs }}}
+%\newcommand{\flat}[0]{ \textrm{flat }}
+\newcommand{\ts}{\textsuperscript}
+
+\newcommand{\MHiggs}[0]{{\mathcal{M}^{\textrm{Higgs}}}}
+\newcommand{\Mtoy}[0]{ \calM^{\textrm{toy }}}
+\newcommand{\Mell}[0]{ \calM^{\textrm{ell }}}
+\newcommand{\bloch}[0]{\beta}
+
+
+\newcommand{\HH}[0]{\mathbb{H}}
+\newcommand{\calH}[0]{\mathcal{H}}
+\newcommand{\calM}[0]{\mathcal{M}}
+\newcommand{\calP}[0]{\mathcal{P}}
+
+\newcommand{\calL}[0]{\mathcal{L}}
+\newcommand{\calN}[0]{\mathcal{N}}
+\newcommand{\calB}[0]{\mathcal{B}}
+\newcommand{\calI}[0]{\mathcal{I}}
+\newcommand{\calE}[0]{\mathcal{E}}
+\newcommand{\calO}[0]{\mathcal{O}}
+\newcommand{\RR}[0]{\mathbb{R}}
+\newcommand{\CC}[0]{\mathbb{C}}
+\newcommand{\ZZ}[0]{\mathbb{Z}}
+\newcommand{\PP}[0]{\mathbb{P}}
+\)
