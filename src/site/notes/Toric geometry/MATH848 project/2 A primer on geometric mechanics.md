@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/toric-geometry/math-848-project/2-a-primer-on-geometric-mechanics/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/toric-geometry/math-848-project/2-a-primer-on-geometric-mechanics/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
