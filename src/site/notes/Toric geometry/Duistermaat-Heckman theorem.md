@@ -1,7 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/toric-geometry/duistermaat-heckman-theorem/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
-p
+
 
 #theorem 
 
