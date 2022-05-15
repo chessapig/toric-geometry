@@ -1,0 +1,32 @@
+I"”<hr />
+<h3 id="notes">notes</h3>
+
+<ul>
+  <li>section 1: morse theory
+    <ul>
+      <li>build topology from fixed points of manifolsd</li>
+      <li>Lemma: even fixed points ==&gt; connected</li>
+    </ul>
+  </li>
+  <li>section 2: morse theory of moment maps
+    <ul>
+      <li>U(1) actions as morse / morse bott functions</li>
+      <li>always even index!! connected level sets</li>
+    </ul>
+  </li>
+  <li>section 3: proof of convexity
+    <ul>
+      <li>connected ==&gt; convexity</li>
+    </ul>
+  </li>
+  <li>Misscilania
+    <ul>
+      <li>Example: eigenvalues and values of diagonal</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h1 id="convexity">convexity</h1>
+:ET
