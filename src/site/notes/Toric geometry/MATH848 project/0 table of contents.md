@@ -4,8 +4,6 @@
 
 
 
-#writing
-
 [[Toric geometry/MATH848 project/0 table of contents|0 table of contents]]
 [[Toric geometry/MATH848 project/1 Introduction|1 Introduction]]
 [[Toric geometry/MATH848 project/2 A primer on geometric mechanics|2 A primer on geometric mechanics]]
